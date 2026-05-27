@@ -1,0 +1,6 @@
+{
+  "name": "Bodega Alto de Pioz",
+  "description": "Landing page de lujo para Bodega Alto de Pioz, integrando arte, arquitectura y vinos de culto con una experiencia UI/UX premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
